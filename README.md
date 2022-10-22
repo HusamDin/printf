@@ -1,1 +1,7 @@
-GhhImplementing printf in C from scratch
+Implementing printf in C from scratch
+For this project, we expect you to look at these concepts:
+
+Group Projects
+Pair Programming - How To
+Flowcharts
+Technical Writing
